@@ -77,7 +77,7 @@ export default {
   components: {
     // HelloWorld: HelloWorldVue,
   },
-  setup(props) {
+  setup() {
     const show = ref(false);
     const showDetail = ref(false);
     const detail = ref({ mean: "", example: "" });
