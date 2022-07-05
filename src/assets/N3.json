@@ -1,0 +1,783 @@
+[{
+    "grammar": "間",
+    "mean": "在。。。期间",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "間に",
+    "mean": "在。。。期间，做了。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "あがる",
+    "mean": "。。。完成了",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "いい／よい",
+    "mean": "容易",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "一方（で）",
+    "mean": "一方面，另一方面",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "一方だ",
+    "mean": "不断地",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "上での",
+    "mean": "在。。。之后",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "上では",
+    "mean": "在。。。方面",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "上に",
+    "mean": "不仅。。而且",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "うちは／ないうちに",
+    "mean": "在。。。的时候",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "おかげで／おかげだ",
+    "mean": "多亏。。。才。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "おきに",
+    "mean": "每隔。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "恐れがある",
+    "mean": "恐怕要。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "がかり",
+    "mean": "花。。。用。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "がたい",
+    "mean": "难以。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "か何か",
+    "mean": "。。。什么的",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "から言うと／から言えば／から言って",
+    "mean": "从。。。来说",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "からすると",
+    "mean": "从。。。来看",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "～から～にかけて",
+    "mean": "从。。。到。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "から見ると",
+    "mean": "从。。。来看",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "きる",
+    "mean": "。。。完",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "くせに",
+    "mean": "明明。。。却。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "くらい／ぐらい",
+    "mean": "。。。。得。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "こそ",
+    "mean": "正是",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "こと",
+    "mean": "要。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "ことか",
+    "mean": "多么。。。啊",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "ことだ",
+    "mean": "应该。。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "ことに",
+    "mean": "令人。。。的是",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "ことにする",
+    "mean": "决定。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "ことになっている",
+    "mean": "预定。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "ことになる",
+    "mean": "决定。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "ことはない",
+    "mean": "不必。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "最中に",
+    "mean": "正在。。。的时候",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "さえ",
+    "mean": "甚至。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "さえ。。。ば",
+    "mean": "只要。。。就。。。、",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "じゃんない",
+    "mean": "不是。。。吗",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "上",
+    "mean": "在。。。之上，。。。方面",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "ずとも",
+    "mean": "即使不。。。也",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "（は）する／（も）する",
+    "mean": "花费。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "せいで／せいだ／せいか",
+    "mean": "都怪。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "そうにない",
+    "mean": "看样子不会。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "～たきり～ない",
+    "mean": "自从。。。之后，就在没。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "だけでなく",
+    "mean": "不但。。而且。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "だけでは",
+    "mean": "光是。。。的话",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "たことにする",
+    "mean": "就当作。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "たって／だって",
+    "mean": "即使。。。也",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "たとえ／たとい～ても",
+    "mean": "即使。。。也",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "たばかりだ",
+    "mean": "刚刚。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "たび",
+    "mean": "每当。。。就。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "たまえ",
+    "mean": "表命令",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "たら／ったら",
+    "mean": "说起。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "だらけ",
+    "mean": "净是。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "たらどうですか",
+    "mean": "那样做怎么样",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "だろうか",
+    "mean": "能。。吗",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "っけ",
+    "mean": "是不是。。。来着",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "って",
+    "mean": "叫。。。的",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "つもり",
+    "mean": "自以为。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "で",
+    "mean": "因为。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "て以来",
+    "mean": "自从。。。以来",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "てごらん",
+    "mean": "请。。。试试",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "て仕方ない",
+    "mean": "。。。得不得了",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "て済む",
+    "mean": "。。。就解决了",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "て（は）たまらない",
+    "mean": "。。。的不得了",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "てならない",
+    "mean": "。。。的不得了",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "ては",
+    "mean": "一。。。就。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "ではないか",
+    "mean": "不是。。。吗",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "（の）ではないか",
+    "mean": "恐怕。。。吧",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "てはならない",
+    "mean": "不能。。。，不可以。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "てほしい",
+    "mean": "希望。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "てみせる",
+    "mean": "做给。。。看",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "てもしかた（が）ない",
+    "mean": "即使。。。也没用",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "ても始まらない",
+    "mean": "即使。。。也没用",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "てやってくれないか",
+    "mean": "可否给。。。做。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "てよかった／なくてよかった",
+    "mean": "太好了。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "ということだ",
+    "mean": "听说。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "というと",
+    "mean": "说起。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "というのは",
+    "mean": "所谓的。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "というほどではない",
+    "mean": "并没有达到。。。程度",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "というものは",
+    "mean": "。。。这种东西",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "（や）～といった",
+    "mean": "。。。。这样的",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "といっても",
+    "mean": "虽说。。。但是。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "とおり（に）",
+    "mean": "如。。那样。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "とされている",
+    "mean": "被视为。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "として／としての／としても",
+    "mean": "作为。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "と（は）反対に",
+    "mean": "与。。。相反",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "ないかな",
+    "mean": "多希望。。。啊",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "直す",
+    "mean": "重新。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "なにしろ～から",
+    "mean": "因为。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "なんか／なんて",
+    "mean": "。。。之类的",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "において／における",
+    "mean": "在。。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "にかわって／にかわり",
+    "mean": "代替。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "に関して／に関しても",
+    "mean": "关于。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "に比べて",
+    "mean": "和。。。相比",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "～にしろ～にしろ／せよ／しても",
+    "mean": "无论是。。。还是。。。都",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "に対して／に対する",
+    "mean": "对。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "について／についての",
+    "mean": "关于。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "につれて／につれ",
+    "mean": "随着。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "にて",
+    "mean": "在。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "にとって",
+    "mean": "对。。。来说",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "には",
+    "mean": "要。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "によって／により／による",
+    "mean": "根据。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "～ぬ／ん",
+    "mean": "不。。。表示否定",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "ねばならない／ねばならぬ",
+    "mean": "必须。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "～の",
+    "mean": "。。吗",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "～のに",
+    "mean": "为了。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "～の話では",
+    "mean": "据说。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "～ばかりだ",
+    "mean": "越来越。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "～ば～ほど",
+    "mean": "越。。。越。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "～ばよかった／なければよかった",
+    "mean": "要是。。。的话，就好了",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "ぶり",
+    "mean": "经过。。。之后又。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "べき／べきだ／べきではない",
+    "mean": "应该。。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "ほど",
+    "mean": "几乎。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "向きだ／向きに／向きの",
+    "mean": "适合于。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "向けだ／向けに／向けの",
+    "mean": "面向。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "もの／もん",
+    "mean": "因为。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "ものだ",
+    "mean": "理应。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "～やら～やら",
+    "mean": "。。。啦。。。啦",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "ようがない／ようもない",
+    "mean": "无法。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "ように",
+    "mean": "希望。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "ようになっている",
+    "mean": "表示正在发生某种变化",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "ように見える",
+    "mean": "看上去像是。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "（ら）れる（自発態）",
+    "mean": "不由得。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "わけがない／わけはない",
+    "mean": "不可能。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "わけだ",
+    "mean": "当然。。。难怪。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "わけではない／わけでもない",
+    "mean": "并不是。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "わけにはいかない",
+    "mean": "不能。。。，不可以。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "を込めて",
+    "mean": "充满，怀着。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "。。。を。。。とする",
+    "mean": "把。。。当作。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "をはじめ（として）／をはじめとする",
+    "mean": "以。。。为首。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "んじゃない",
+    "mean": "不要。。。",
+    "example": "",
+    "translate": "",
+    "use": ""
+}
+
+]
