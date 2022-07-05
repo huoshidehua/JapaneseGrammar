@@ -46,6 +46,7 @@
         <van-radio name="N3">N3</van-radio>
         <van-radio name="N4">N4</van-radio>
         <van-radio name="N5">N5</van-radio>
+        <van-radio name="fuci">副词</van-radio>
       </van-radio-group>
       <!-- 个数 -->
       <van-field name="stepper" label="个数">
@@ -73,6 +74,7 @@
 import { ref } from "vue";
 import n2data from "@/assets/N2.json";
 import n3data from "@/assets/N3.json";
+import fucidata from "@/assets/fuci.json";
 export default {
   name: "App",
   components: {
@@ -95,6 +97,7 @@ export default {
       switch(setting.value.level){
         case "N2":data = n2data;break;
         case "N3":data = n3data;break;
+        case "fuci":data = fucidata;break;
         default : data = n2data;break;
       }
       while (set.size < setting.value.count) {

@@ -1,0 +1,482 @@
+[{
+    "grammar": "はっきり",
+    "mean": "【自サ】清楚，明确",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "あまり",
+    "mean": "（不）怎么，（不）太",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "こっそり",
+    "mean": "悄悄，偷偷",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "すっきり",
+    "mean": "【自サ】舒畅，畅快，流畅",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "ゆっくり",
+    "mean": "【自サ】慢慢的，安安稳稳",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "ぐっすり",
+    "mean": "完全地熟睡",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "たっぷり",
+    "mean": "充分，足够",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "つまり",
+    "mean": "【名】总之，也就是",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "ずらり",
+    "mean": "一长排地",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "ぼんやり",
+    "mean": "【自サ】模糊，发呆",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "ぴったり",
+    "mean": "紧密，严实，恰好，正中",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "かなり",
+    "mean": "【形动】颇当，相当",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "さっぱり",
+    "mean": "【自サ】清爽，清淡",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "思い切り「おもいきり」",
+    "mean": "【名】死心",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "のんびり",
+    "mean": "【自サ】悠闲自在，无拘无束",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "すっかり",
+    "mean": "全都，完全",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "めっきり",
+    "mean": "（变化）显著，急剧",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "ばったり",
+    "mean": "突然掉下或倒下状",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "しっかり",
+    "mean": "【自サ】坚固，牢记，扎实，充分",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "そっくり",
+    "mean": "全部，照原样",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "単に「たんに」",
+    "mean": "仅，只",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "偶に「たまに」",
+    "mean": "有时，偶尔",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "更に「さらに」",
+    "mean": "更加；（接否定）一点也（不）",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "がっかり",
+    "mean": "【自サ】失望，颓废",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "いきなり",
+    "mean": "冷不防，突然",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "既に「すでに」",
+    "mean": "已经，以前",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "主に「おもに」",
+    "mean": "主要，大部分",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "先に「さきに」",
+    "mean": "首先，不久前",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "直に「じかに」",
+    "mean": "直接，贴身",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "現に「げんに」",
+    "mean": "实际上，真实的",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "別に「べつに」",
+    "mean": "（后接否定）并不",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "正に「まさに」",
+    "mean": "真正，的确，即将",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "ぎっしり",
+    "mean": "挤得满满地",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "さはり",
+    "mean": "还是，果然",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "常に「つねに」",
+    "mean": "时常，总是",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "今に「いまに」",
+    "mean": "不久，至今",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "実に「じつに」",
+    "mean": "实在，确实",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "割に「わりに」",
+    "mean": "比较的，意外",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "うっかり",
+    "mean": "【自サ】不注意，无意中",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "共に「ともに」",
+    "mean": "一起，同时",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "直ちに「ただちに」",
+    "mean": "立刻，直接",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "大いに「おおいに」",
+    "mean": "大，很，非常",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "いらいら",
+    "mean": "【自サ】【名】着急，焦躁",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "頻りに「しきりに」",
+    "mean": "频繁的，屡次，热心",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "お互いに「おたがいに」",
+    "mean": "互相，彼此",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "生き生き「いきいき」",
+    "mean": "生气勃勃，生动",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "要するに「ようするに」",
+    "mean": "总之，总归",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "独りでに「ひとりでに」",
+    "mean": "自动地，自然地",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "確かに「たしかに」",
+    "mean": "的确，确实",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "次第に「しだいに」",
+    "mean": "逐渐的，慢慢的",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "代わりに「かわりに」",
+    "mean": "取代，⋯作为补偿",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "一斉に「いっせいに」",
+    "mean": "一起，一同",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "彼方此方「あちこち」",
+    "mean": "【代】到处【形动】颠倒的",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "いよいよ",
+    "mean": "越发，真的，终于，紧要关头",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "途端に「とたんに」",
+    "mean": "刚一，突然",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "とっくに",
+    "mean": "老早，很早以前",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "真っ先に",
+    "mean": "最早，首先",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "やたらに",
+    "mean": "过分，任意，鲁莽的",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "いちいち",
+    "mean": "【名】挨个地，逐一",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "めったに",
+    "mean": "很少，不常",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "度々「たびたび」",
+    "mean": "屡次，反复",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "にわか",
+    "mean": "突然，立刻，马上",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "なかなか",
+    "mean": "颇很，不容易",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "そろそろ",
+    "mean": "就要，快要，渐渐",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "次々に「つぎつぎに」",
+    "mean": "一个接一个，依次",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "徐々に「じょじょに」",
+    "mean": "慢慢地，渐渐地",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "だんだん",
+    "mean": "渐渐地",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "点々「てんてん」",
+    "mean": "【名】点线【形动】星星点点状",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "どんどん",
+    "mean": "咚咚，顺利，连续不断",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "近々「ちかぢか」",
+    "mean": "最近，不久，直接",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "おのおの",
+    "mean": "【名】【代】各自，大家",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "しばしば",
+    "mean": "屡次，常常",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "にこにこ",
+    "mean": "【自サ】笑眯眯",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "それぞれ",
+    "mean": "分别，各各，每个",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "のろのろ",
+    "mean": "【自サ】迟缓，慢吞吞地",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "凸凹「でこぼこ」",
+    "mean": "【名】【形动】【自サ】凹凸不平",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "うろうろ",
+    "mean": "【自サ】徘徊，急的团团转",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "精精「せいぜい」",
+    "mean": "尽力，至多",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "続々「ぞくぞく」",
+    "mean": "源源不断，继续",
+    "example": "",
+    "translate": "",
+    "use": ""
+}, {
+    "grammar": "必死「ひっし」",
+    "mean": "【名】【形动】拼命",
+    "example": "",
+    "translate": "",
+    "use": ""
+}
+]
