@@ -72,6 +72,7 @@
 <script>
 import { ref } from "vue";
 import n2data from "@/assets/N2.json";
+import n3data from "@/assets/N3.json";
 export default {
   name: "App",
   components: {
@@ -90,10 +91,16 @@ export default {
       loading.value = true;
       finished.value = false;
       let set = new Set();
+      let data =[];
+      switch(setting.value.level){
+        case "N2":data = n2data;break;
+        case "N3":data = n3data;break;
+        default : data = n2data;break;
+      }
       while (set.size < setting.value.count) {
         // 随机数
-        var index = Math.floor(Math.random() * n2data.length);
-        set.add(n2data[index]);
+        var index = Math.floor(Math.random() * data.length);
+        set.add(data[index]);
       }
       list.value = set;
       loading.value = false;
