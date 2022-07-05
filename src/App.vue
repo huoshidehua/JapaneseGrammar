@@ -41,13 +41,14 @@
     <div style="padding: 20px">
       <!-- 等级 -->
       <van-radio-group v-model="setting.level" direction="horizontal">
-        <van-radio name="N1">N1</van-radio>
+        <!-- <van-radio name="N1">N1</van-radio> -->
         <van-radio name="N2">N2</van-radio>
         <van-radio name="N3">N3</van-radio>
         <van-radio name="N4">N4</van-radio>
-        <van-radio name="N5">N5</van-radio>
+        <!-- <van-radio name="N5">N5</van-radio> -->
         <van-radio name="fuci">副词</van-radio>
       </van-radio-group>
+      <br />
       <!-- 个数 -->
       <van-field name="stepper" label="个数">
         <template #input>
@@ -74,6 +75,7 @@
 import { ref } from "vue";
 import n2data from "@/assets/N2.json";
 import n3data from "@/assets/N3.json";
+import n4data from "@/assets/N4.json";
 import fucidata from "@/assets/fuci.json";
 export default {
   name: "App",
@@ -97,6 +99,7 @@ export default {
       switch(setting.value.level){
         case "N2":data = n2data;break;
         case "N3":data = n3data;break;
+        case "N4":data = n4data;break;
         case "fuci":data = fucidata;break;
         default : data = n2data;break;
       }
